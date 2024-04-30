@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224268205736",
+    "project_id": "flutter-deploy-3379b",
+    "storage_bucket": "flutter-deploy-3379b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224268205736:android:5eb20795b1b600b2688c9d",
+        "android_client_info": {
+          "package_name": "com.example.examen3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0CRfhNlK_SuScNu0zsbj796o0AdtAt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
